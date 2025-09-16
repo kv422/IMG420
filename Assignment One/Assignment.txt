@@ -1,0 +1,35 @@
+You will familiarize yourself with the Godot game engine by building a game using GDScript after downloading the Godot engine with .NET support. This game demonstration will show several basic aspects of a 2D game. At minimum: a playable character, an interactable level, win-lose conditions, and a GUI system.
+
+Basic Requirements
+Your demonstration will contain a minimum of the following objects:
+
+A playable character (3 points).
+An interactable level (3 points).
+Win-lose conditions (2 points).
+A GUI system (2 points).
+You will use the Godot editor to compose nodes into scenes, and you will script in GDScript. You should follow Godot's best practices, such as scene prefabs, and you are encouraged to look through/work through the Godot documentation/tutorials hereLinks to an external site.. You will be graded on the elegance of your implementation, so take some time to think about how best to structure your scenes/code.
+
+Playable Character Requirements
+The character must take at least 3 forms of unique input. For example, in a platformer, you would have at a minimum move left, move right, and jump. In a dungeon crawler, you would have at minimum cursor targeting, move to target, and attack.
+
+An Interactable Level
+The level should have at least two forms of interactivity. You could collect power-ups, have a dialogue system, change your weapons, etc.
+
+Win-lose Conditions
+
+The game should have some form of win and loss conditions. Well understood rules are key and how to beat the game should be well explained, if its a survival style game you should explain it.
+
+A GUI System
+The game should have at least one form of heads-up display (HUD) that is rendered during gameplay, and at least one out-of-game menu, such as a pause screen or a main menu to start the game. Both GUI systems should reflect changes in the game state as necessary.
+
+Extra Credit
+The are several opportunities for extra credit in this assignment if you'd like to add the features below, but note that extra credit points will only be available after completing the minimum requirements.
+
+Animations (1-2 points)
+Include some form of animation in the game. This could be done using SpriteFrames or 2D skeletons, as best suits your game. You can include animated 3D elements in the game, but the gameplay itself should remain 2D for simplicity.
+
+Sound Effects (1 point)
+Add sound effects and/or background music to the game. Both sound effects and background music should be context sensitive (e.g. a sound effect plays every time the character jumps, and the background music stops when the player loses).
+
+NPCs (2 points)
+Add non-playable characters (NPCs) to the game. These can be enemies or allies, and you can choose how the player should interact with them, but they should exhibit some form of "intelligent" behavior. This can be as simple as moving back and forth along a platform or targeting the player with projectiles.
