@@ -1,0 +1,5 @@
+This game is similar to game one, where you have to avoid the evil kitties. 
+
+However, in this version you need to also avoid the bottom of the screen, that is where the evil crab kitty lives.
+
+* Note I was not able to connect the EvilCrab node to the main, however there is functionality with the evil crab, it just does not collide with the character. 
